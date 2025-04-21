@@ -1,6 +1,5 @@
 import polymorf as poly
 
-
 def main():
     poly.main()
 
